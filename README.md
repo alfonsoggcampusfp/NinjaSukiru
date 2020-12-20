@@ -10,6 +10,7 @@ git clone https://github.com/alfonsoggcampusfp/NinjaSukiru.git
 
 _No hace falta instalar otras dependencias_
 
+Ejecuta el archivo NinjaGame.exe para abrir el juego. ¡ Y disfruta !
 
 ## Construido con 🛠️
 
