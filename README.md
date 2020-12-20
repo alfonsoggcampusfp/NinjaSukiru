@@ -17,7 +17,7 @@ Ejecuta el archivo NinjaGame.exe para abrir el juego. ¡ Y disfruta !
 * [Unity](https://unity3d.com/es/get-unity/download) - El framework usado
 * [Assets](https://assetstore.unity.com/) - Contenidos del proyecto
 * [Documentacion C#](https://docs.unity3d.com/Manual/index.html) - Documentacion C# de Unity
-* [YoutubeMusic](https://maven.apache.org/) - Fuente de audio
+* [YoutubeMusic](https://www.youtube.com/?gl=ES) - Fuente de audio
 
 
 ## Autores ✒️
