@@ -21,4 +21,4 @@ _No hace falta instalar otras dependencias_
 
 ## Autores ✒️
 
-* **Alfonso Gallardo** - *Repositorios* - [villanuevand](https://github.com/alfonsoggcampusfp)
+* **Alfonso Gallardo** - *Repositorios utilizados a lo largo del grado superior* - [alfonsoggcampusfp](https://github.com/alfonsoggcampusfp)
